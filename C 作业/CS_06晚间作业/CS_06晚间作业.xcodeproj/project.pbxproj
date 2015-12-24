@@ -1,0 +1,250 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		497C1FAD1C04870000C21E2B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 497C1FAC1C04870000C21E2B /* main.m */; };
+		497C1FB51C04874200C21E2B /* CS_06晚间作业头文件.m in Sources */ = {isa = PBXBuildFile; fileRef = 497C1FB41C04874200C21E2B /* CS_06晚间作业头文件.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		497C1FA71C04870000C21E2B /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		497C1FA91C04870000C21E2B /* CS_06晚间作业 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "CS_06晚间作业"; sourceTree = BUILT_PRODUCTS_DIR; };
+		497C1FAC1C04870000C21E2B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		497C1FB31C04874200C21E2B /* CS_06晚间作业头文件.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "CS_06晚间作业头文件.h"; sourceTree = "<group>"; };
+		497C1FB41C04874200C21E2B /* CS_06晚间作业头文件.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "CS_06晚间作业头文件.m"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		497C1FA61C04870000C21E2B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		497C1FA01C04870000C21E2B = {
+			isa = PBXGroup;
+			children = (
+				497C1FAB1C04870000C21E2B /* CS_06晚间作业 */,
+				497C1FAA1C04870000C21E2B /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		497C1FAA1C04870000C21E2B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				497C1FA91C04870000C21E2B /* CS_06晚间作业 */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		497C1FAB1C04870000C21E2B /* CS_06晚间作业 */ = {
+			isa = PBXGroup;
+			children = (
+				497C1FAC1C04870000C21E2B /* main.m */,
+				497C1FB31C04874200C21E2B /* CS_06晚间作业头文件.h */,
+				497C1FB41C04874200C21E2B /* CS_06晚间作业头文件.m */,
+			);
+			path = "CS_06晚间作业";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		497C1FA81C04870000C21E2B /* CS_06晚间作业 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 497C1FB01C04870000C21E2B /* Build configuration list for PBXNativeTarget "CS_06晚间作业" */;
+			buildPhases = (
+				497C1FA51C04870000C21E2B /* Sources */,
+				497C1FA61C04870000C21E2B /* Frameworks */,
+				497C1FA71C04870000C21E2B /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "CS_06晚间作业";
+			productName = "CS_06晚间作业";
+			productReference = 497C1FA91C04870000C21E2B /* CS_06晚间作业 */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		497C1FA11C04870000C21E2B /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0710;
+				ORGANIZATIONNAME = "doll-61";
+				TargetAttributes = {
+					497C1FA81C04870000C21E2B = {
+						CreatedOnToolsVersion = 7.1;
+					};
+				};
+			};
+			buildConfigurationList = 497C1FA41C04870000C21E2B /* Build configuration list for PBXProject "CS_06晚间作业" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 497C1FA01C04870000C21E2B;
+			productRefGroup = 497C1FAA1C04870000C21E2B /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				497C1FA81C04870000C21E2B /* CS_06晚间作业 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		497C1FA51C04870000C21E2B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				497C1FAD1C04870000C21E2B /* main.m in Sources */,
+				497C1FB51C04874200C21E2B /* CS_06晚间作业头文件.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		497C1FAE1C04870000C21E2B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		497C1FAF1C04870000C21E2B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		497C1FB11C04870000C21E2B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		497C1FB21C04870000C21E2B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		497C1FA41C04870000C21E2B /* Build configuration list for PBXProject "CS_06晚间作业" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				497C1FAE1C04870000C21E2B /* Debug */,
+				497C1FAF1C04870000C21E2B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		497C1FB01C04870000C21E2B /* Build configuration list for PBXNativeTarget "CS_06晚间作业" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				497C1FB11C04870000C21E2B /* Debug */,
+				497C1FB21C04870000C21E2B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 497C1FA11C04870000C21E2B /* Project object */;
+}
